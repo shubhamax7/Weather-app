@@ -2,6 +2,8 @@
 
 A simple, responsive weather app that shows live weather for any city. Built with vanilla HTML, CSS, and JavaScript using the OpenWeatherMap API.
 
+**[Live Demo](https://shubhamax7.github.io/Weather-app/)**
+
 ## Features
 
 - **City search** — Enter any city name to get current weather
